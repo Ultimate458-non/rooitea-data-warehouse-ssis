@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CSI_HON15.RooiTea_Distribution"
+  DTS:DTSID="{B56B06EC-1949-4844-AD22-AA507BF4333A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=CSI_HON15;Initial Catalog=RooiTea_Distribution;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Practical Project – Part C-{B56B06EC-1949-4844-AD22-AA507BF4333A}CSI_HON15.RooiTea_Distribution;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
